@@ -28,7 +28,6 @@ export default serverRelativePath => {
         console.log(message);
         console.log();
       });
-      return;
     }
 
     if (messages.warnings.length) {
