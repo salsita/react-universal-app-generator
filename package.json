@@ -1,6 +1,6 @@
 {
   "name": "react-universal-app-generator",
-  "version": "0.1.15",
+  "version": "0.1.16",
   "description": "React Universal JavaScript application generator",
   "main": "lib/index.js",
   "bin": {
