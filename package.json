@@ -21,6 +21,7 @@
     "babel-preset-stage-2": "^6.18.0",
     "cross-spawn": "^5.0.1",
     "fs-extra": "^1.0.0",
+    "react-dev-utils": "^0.4.2",
     "webpack": "^1.14.0",
     "webpack-dev-middleware": "^1.8.4",
     "webpack-hot-middleware": "^2.13.2"
